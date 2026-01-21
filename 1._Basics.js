@@ -14,11 +14,11 @@ const lastName = "Latif";
 // --------------------------------------
 // Exercise 2 - Numbers and Strings
 
-const year = "2024";
+const year = "2025";
 const increment = 1;
 
 // Add the year plus the increment
-// The result should be 2025
+// The result should be 2026
 // You cannot touch the first or the second line
 
 
