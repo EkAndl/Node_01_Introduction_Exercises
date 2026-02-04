@@ -9,7 +9,7 @@ const numberTwo = "2.30";
 
 
 // --------------------------------------
-// Exercise 4 - Add the numbers and the total with 2 decimals
+// Exercise 4 - Add the numbers and show the total with 2 decimals
 
 const anotherNumberOne = "1.10";
 const anotherNumberTwo = "2.30";

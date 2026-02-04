@@ -10,7 +10,7 @@ const greetings = { message: "Hello, earthling! I bring peace." };
 // --------------------------------------
 // Exercise 2 - Defining an object.
 
-// Create an object that has your name and age. 
+// Create an object that has the name and a age of a fictional character.
 
 
 // --------------------------------------
